@@ -1,5 +1,5 @@
 //COMMON JS MODULE SYSTEM
-jhanvi={
+jhanvi = {
     name: "Jhanvi",
     age: 20,
     developer: true
