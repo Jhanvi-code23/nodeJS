@@ -1,4 +1,4 @@
-# Node.js Practice 🚀
+# Node.js Practice🚀
 
 This repository contains my Node.js practice and learning journey, starting from the basics and gradually moving towards more advanced concepts.
 
